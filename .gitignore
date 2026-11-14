@@ -1,0 +1,13 @@
+
+# Java Maven
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+
+# Local environments
+jdk17/
+maven_home/
+maven.zip
